@@ -23,12 +23,13 @@ An overview of each notebook file:
 
 
 ### Data
-This directory contains the data required for the analysis in the paper. This includes aligned sequence files from each evolutionary line (directories 13, 14, 15 and 16) as well as sequence files from the ancestor population (ancestor directory). 
+This directory contains the data required for the analysis in the paper. 
 
 Deep Mutational Scanning data reproduced from Haddox et al. 2018 and Hong et al. 2024 is supplied in the directory DMS.
 
 Other files contain the processed mutation data from the HIV LTEE (Bons et al. 2020) (all_dels.pkl, all_ins.pkl and all_muts.pkl contain the deletion, insertion and substitution mutations repsectively), the ancestor population consensus sequence (ancestor_consensus.fasta), population fitness estimates from competition assays (assay_fitness_estimates.npz), the HIV-1 gene positions (genes.csv), and details of the substitution mutations from Bons et al. 2020 (mutation_types.pkl).
 
+Some data (sequence files from each evolutionary line and the ancestor population) are too large to submit here and instead can be found on Zenodo at: https://doi.org/10.5281/zenodo.24590954
 
 ### Figures
 All figures produced by the analysis files are found here. This includes combined figures for the paper. Almost all are stored as .pdf except three which are stored as .png as they are very large .pdf files.
