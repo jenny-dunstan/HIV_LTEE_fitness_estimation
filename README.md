@@ -31,7 +31,7 @@ Other files contain the processed mutation data from the HIV LTEE (Bons et al. 2
 
 
 ### Figures
-All figures produced by the analysis files are found here. This includes combined figures for the paper. Almost all are stored as .pdf except three which are also stored as .png as they are very large .pdf files.
+All figures produced by the analysis files are found here. This includes combined figures for the paper. Almost all are stored as .pdf except three which are stored as .png as they are very large .pdf files.
 
 ### Out
 Data files produced by the analysis files are found here. This includes the table of all mutations and their estimated fitness effects as well as the estimated and true covariance matrices.
