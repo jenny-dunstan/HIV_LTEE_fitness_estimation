@@ -34,7 +34,7 @@ Other files contain the processed mutation data from the HIV LTEE (Bons et al. 2
 Some data (sequence files from each evolutionary line and the ancestor population) are too large to submit here and instead can be found on Zenodo at: https://doi.org/10.5281/zenodo.24590954
 
 ### Figures
-All figures produced by the analysis files are found here. This includes combined figures for the paper. Almost all are stored as .pdf except three which are stored as .png as they are very large .pdf files.
+All figures produced by the analysis files are found here. This includes combined figures for the paper. Almost all are stored as .pdf except three which are stored as .png as they are very large .pdf files. The .pdf files can be found on Zenodo at: https://doi.org/10.5281/zenodo.24590954
 
 ### Out
-Data files produced by the analysis files are found here. This includes the table of all mutations and their estimated fitness effects (mutations_with_fitness.csv) for which the columns are explained in the paper's supplementary information, well as the estimated and true covariance matrices.
+Data files produced by the analysis files are found here. This includes the table of all mutations and their estimated fitness effects (mutations_with_fitness.csv) for which the columns are explained in the paper's supplementary information. Files containing the estimated and true covariance matrices are too large to submit here and instead can be found on Zenodo at: https://doi.org/10.5281/zenodo.24590954
