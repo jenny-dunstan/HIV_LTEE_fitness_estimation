@@ -1,1 +1,1 @@
-Figures produced by the analysis files.
+Figures produced by the analysis files. Three figures are too large to upload as .pdf files so are uploaded here as .png files instead. The .pdf files are available on Zenodo at: https://doi.org/10.5281/zenodo.24590954
